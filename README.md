@@ -1,7 +1,5 @@
 # TC_CO_ECCOMERCE_PROJECT
 
-# TC_CO_PROJECTR
-
 # pre-requisits:
     1. java -17
     2. maven version (3.6+)
